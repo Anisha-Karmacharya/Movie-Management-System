@@ -1,0 +1,18 @@
+M1,Conjuring,4,9
+M2,Mulan 2,3.5,14
+
+M3,Moonlight,3,10
+
+M4,La La Land,3.5,20
+
+M5,Inferno,2.5,24
+
+M6,Thor 2,3.5,20
+
+M7,Iron Man,3,15
+
+M8,Titanic,3,10
+
+M9,Deadpool,4,15
+
+M10,Dumbo 2,2.5,20
